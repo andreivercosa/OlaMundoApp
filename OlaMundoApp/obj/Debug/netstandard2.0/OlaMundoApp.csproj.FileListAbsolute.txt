@@ -1,0 +1,12 @@
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/bin/Debug/netstandard2.0/OlaMundoApp.deps.json
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/bin/Debug/netstandard2.0/OlaMundoApp.dll
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/bin/Debug/netstandard2.0/OlaMundoApp.pdb
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/OlaMundoApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/OlaMundoApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/OlaMundoApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/OlaMundoApp.AssemblyInfo.cs
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/OlaMundoApp.dll
+/Users/aluno/Projects/OlaMundoApp/OlaMundoApp/obj/Debug/netstandard2.0/OlaMundoApp.pdb
