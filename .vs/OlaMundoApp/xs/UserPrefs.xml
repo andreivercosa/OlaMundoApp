@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{8DD8348C-E292-407B-B4D1-D00E2C50B37B}|Default">
-  <MonoDevelop.Ide.ItemProperties.OlaMundoApp FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OlaMundoApp/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OlaMundoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs">
     <Files>
       <File FileName="OlaMundoApp/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="OlaMundoApp/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="OlaMundoApp/MainPage.xaml" Line="22" Column="5" />
+      <File FileName="OlaMundoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="22" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OlaMundoApp" expanded="True">
-            <Node name="OlaMundoApp" expanded="True" />
+            <Node name="OlaMundoApp" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.OlaMundoApp.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.OlaMundoApp.Android FirstBuild="True" PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.ItemProperties.OlaMundoApp.Android PreferredExecutionTarget="Android.JBAKB6044247LNM" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
