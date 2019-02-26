@@ -1,17 +1,23 @@
 ﻿<Properties StartupConfiguration="{8DD8348C-E292-407B-B4D1-D00E2C50B37B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OlaMundoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OlaMundoApp/App.xaml.cs">
     <Files>
       <File FileName="OlaMundoApp/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="OlaMundoApp/MainPage.xaml" Line="22" Column="5" />
-      <File FileName="OlaMundoApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="22" Column="1" />
+      <File FileName="OlaMundoApp/MainPage.xaml" Line="13" Column="18" />
+      <File FileName="OlaMundoApp/App.xaml.cs" Line="19" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="OlaMundoApp" expanded="True">
-            <Node name="OlaMundoApp" expanded="True" selected="True" />
+            <Node name="OlaMundoApp" expanded="True" selected="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
